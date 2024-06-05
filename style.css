@@ -21,6 +21,11 @@ body{
   
 }
 
+h2.card_title {
+  position: relative;
+  z-index: 1;
+}
+
 .card_title{
   margin-bottom: 14px auto;
   text-align: center;
